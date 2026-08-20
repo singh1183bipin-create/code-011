@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/singh1183bipin-create/code-011/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/singh1183bipin-create/code-011/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singh1183bipin-create/code-011/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/singh1183bipin-create/code-011/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/singh1183bipin-create/code-011/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
