@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/singh1183bipin-create/code-011/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/singh1183bipin-create/code-011/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/singh1183bipin-create/code-011/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/singh1183bipin-create/code-011/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/singh1183bipin-create/code-011/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -46,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/singh1183bipin-create/code-011/tree/master/0151-reverse-words-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singh1183bipin-create/code-011/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
