@@ -31,6 +31,7 @@
 | [0053-maximum-subarray](https://github.com/singh1183bipin-create/code-011/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/singh1183bipin-create/code-011/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/singh1183bipin-create/code-011/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/singh1183bipin-create/code-011/tree/master/0724-find-pivot-index) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/singh1183bipin-create/code-011/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
@@ -63,4 +64,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/singh1183bipin-create/code-011/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/singh1183bipin-create/code-011/tree/master/0152-maximum-product-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/singh1183bipin-create/code-011/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
