@@ -6,6 +6,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/singh1183bipin-create/code-011/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/singh1183bipin-create/code-011/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/singh1183bipin-create/code-011/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0287-find-the-duplicate-number](https://github.com/singh1183bipin-create/code-011/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/singh1183bipin-create/code-011/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/singh1183bipin-create/code-011/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/singh1183bipin-create/code-011/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/singh1183bipin-create/code-011/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
@@ -71,4 +73,5 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/singh1183bipin-create/code-011/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/singh1183bipin-create/code-011/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/singh1183bipin-create/code-011/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
