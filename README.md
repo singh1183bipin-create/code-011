@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/singh1183bipin-create/code-011/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/singh1183bipin-create/code-011/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/singh1183bipin-create/code-011/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/singh1183bipin-create/code-011/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/singh1183bipin-create/code-011/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +45,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/singh1183bipin-create/code-011/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/singh1183bipin-create/code-011/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
